@@ -7,7 +7,8 @@
 <details>
   <summary>credits</summary>
   
-  https://pin.it/6YdHRc8yw
-  https://www.pinterest.com/ineffablyskello/
+  https://pin.it/6YdHRc8yw - Banner
+  
+  https://www.pinterest.com/ineffablyskello/ - PFP
 </details>
 
