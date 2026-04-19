@@ -7,7 +7,7 @@
 <details>
   <summary>credits</summary>
   
-  (https://pin.it/6YdHRc8yw)
+  https://pin.it/6YdHRc8yw
   https://www.pinterest.com/ineffablyskello/
 </details>
 
